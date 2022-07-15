@@ -1,4 +1,5 @@
 import React from 'react'
+import './WeatherSearch.css';
 
 function WeatherSearch() {
   return (
